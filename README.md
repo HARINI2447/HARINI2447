@@ -11,7 +11,7 @@ Software Developer | Full-Stack Developer 🚀
 
 ### 🎓 Academic Profile
 * **Degree:** B.E. in Computer Science Engineering
-* **Institution:** Jai Shriram Engineering College (Anna University)
+* **Institution:** Jai Shriram Engineering College 
 * **Timeline:** 2023 – 2027
 * **Current CGPA:** 9.00 / 10.0 🌟
 
