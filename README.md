@@ -28,16 +28,16 @@ Software Developer | Full-Stack Developer 🚀
 ### 📂 Featured Projects
 
 #### 🛒 Super Market Billing System
-> *A robust console-based Java application for multi-floor inventory and transaction management.*
+> *A robust application for multi-floor inventory and Billing management.*
 * **Tech:** Java (OOPs, Collection Framework)
 * **Key Feature:** Receipt generation & dynamic cart operations.
 * [**View Code-->1.Front-End**](https://github.com/HARINI2447/billing-frontend.git )
-* [**View Code-->2.Back-End**] (https://github.com/HARINI2447/springboot_Application.git)
+* [**View Code-->2.Back-End**](https://github.com/HARINI2447/springboot_Application.git )
 * **Demo:** [https://billing-frontend-red-ten.vercel.app/]
   
 * #### 📝 TaskFlow (To-Do List)
 > *A minimalist productivity app with local storage persistence.*
-* **Tech:** JavaScript (ES6+), CSS Grid/Flexbox
+* **Tech:** React.js, Node.js, MongoDb.
 * **Demo:** [Live Link](https://harini2447.github.io/todo-list)
 * [**View Code**](https://github.com/HARINI2447/MernStack.git)
 
