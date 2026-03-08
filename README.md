@@ -32,6 +32,8 @@ Software Developer | Full-Stack Developer 🚀
 * **Tech:** Java (OOPs, Collection Framework)
 * **Key Feature:** Receipt generation & dynamic cart operations.
 * [**View Code**](https://github.com/HARINI2447/BillingSystem.git)
+* **Demo:** [https://billing-frontend-red-ten.vercel.app/]
+* 
 * #### 📝 TaskFlow (To-Do List)
 > *A minimalist productivity app with local storage persistence.*
 * **Tech:** JavaScript (ES6+), CSS Grid/Flexbox
